@@ -6,7 +6,7 @@
 
 ## The challenge
 
-The challenge was to build out ![this](https://sirsanctified.github.io/manage_landing_page) landing page and get it looking as close to the design as possible.
+The challenge was to build out ![this](https://sirsanctified.github.io/landing_page) landing page and get it looking as close to the design as possible.
 
 
 Users should be able to:
